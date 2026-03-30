@@ -878,3 +878,26 @@ p.dropcap:first-child:first-letter {
       border: 1px solid white; }
       .block-16 .play-button:hover > span {
         color: #fff; }
+
+
+.cursive-font {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: none;
+}
+
+.tagline {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 1.3;
+}
+
+.hero-small {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  min-height: auto !important;
+}
